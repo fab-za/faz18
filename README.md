@@ -2,7 +2,9 @@
 
 I see you've stumbled upon my code cave - it's nice to have you here! I'm Farzana, a Design Engineering student at Imperial College London. Here you can find the repositories for some of my uni project work as well as personal projects like my portfolio website and a weather extension for Chrome. ✨✨✨
 
-Check out all my projects (both code and physical builds) on [my portfolio site](www.farzanazainal.com) 🐈
+🎹 I'm currently working on developing an app that animates virtual hands based on inputted music scores in Unity 🎹
+
+Check out my other projects (including both code and physical builds) on [my portfolio site](www.farzanazainal.com) 🐈
 
 <!--
 **faz18/faz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
