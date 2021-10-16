@@ -6,6 +6,11 @@ I see you've stumbled upon my code cave - it's nice to have you here! I'm Farzan
 
 Check out my other projects (including both code and physical builds) on [my portfolio site](https://www.farzanazainal.com) 🐈
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/farzana-zainal/" alt="Linkedin"><img src="/img/linkedin-box-fill.svg"></a>
+    <a href="mailto:farzana.a.zainal@gmail.com" alt="Contact me"><img src="/img/mail-fill.svg"></a>
+</p>
+
 <!--
 **faz18/faz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
