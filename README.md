@@ -1,6 +1,6 @@
 ### why hello there 👋
 
-I see you've stumbled upon my code cave - it's nice to have you here! I'm Farzana, a Design Engineering student at Imperial College London. Here you can find the repositories for some of my uni project work as well as personal projects like my portfolio website and a weather extension for Chrome. ✨✨✨
+I see you've stumbled upon my code cave - it's nice to have you here! I'm Farzana, an Imperial College London graduate and robotics engineer. Here you can find the repositories for some of my uni project work as well as personal projects like my portfolio website and a weather extension for Chrome. ✨✨✨
 
 <!--🎹 I'm currently working on developing an app that animates virtual hands based on inputted music scores in Unity 🎹-->
 
